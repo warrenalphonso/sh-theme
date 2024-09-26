@@ -9,7 +9,7 @@
     --head-nav-gap: 3.2rem;
 }
 
-.tag-template .gh-main,
+.gh-main,
 .author-template .gh-main {
     padding-top: 8vmin;
 }
@@ -525,18 +525,6 @@
     margin-top: 0.8rem;
     line-height: 1.45;
     color: var(--color-secondary-text);
-}
-
-.gh-tag-label {
-    margin-bottom: 1.2rem;
-    font-size: 1.2rem;
-    font-weight: 500;
-    color: var(--ghost-accent-color);
-    text-transform: uppercase;
-}
-
-.gh-tag-description {
-    margin-top: 1.6rem;
 }
 
 .gh-author-image {
